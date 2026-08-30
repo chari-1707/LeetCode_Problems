@@ -16,21 +16,22 @@ public:
             }
         }
 
-        // if (mnIdx == mxIdx) {
-        //     return min(mnIdx + 1, n - mnIdx);
-        // } else if (mnIdx <= n / 2 && mxIdx <= n / 2) {
-        //     return max(mnIdx, mxIdx) + 1;
-        // } else if (mnIdx >= n / 2 && mxIdx >= n / 2) {
-        //     return max(n - mnIdx, n - mxIdx);
-        // } else if (mnIdx < n / 2 && mxIdx > n / 2) {
-        //     return mnIdx + 1 + n - mxIdx;
-        // } else {
-        //     return mxIdx + 1 + n - mnIdx;
-        // }
-
-        int x = max(mnIdx, mxIdx) + 1;
+        if (mnIdx == mxIdx) {
+            return min(mnIdx + 1, n - mnIdx);
+        } else if (mnIdx <= n / 2 && mxIdx <= n / 2) {
+            return max(mnIdx, mxIdx) + 1;
+        } else if (mnIdx >= n / 2 && mxIdx >= n / 2) {
+            return max(n - mnIdx, n - mxIdx);
+        } else{ 
+            int x = max(mnIdx, mxIdx) + 1;
         int y = max(n - mnIdx, n - mxIdx);
         int z = min({mnIdx + 1 + n - mxIdx,mxIdx + 1 + n - mnIdx});
         return min({x,y,z});
+        }
+
+        // int x = max(mnIdx, mxIdx) + 1;
+        // int y = max(n - mnIdx, n - mxIdx);
+        // int z = min({mnIdx + 1 + n - mxIdx,mxIdx + 1 + n - mnIdx});
+        // return min({x,y,z});
     }
 };
