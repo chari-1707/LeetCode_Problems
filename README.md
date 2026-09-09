@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/chari-1707/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
