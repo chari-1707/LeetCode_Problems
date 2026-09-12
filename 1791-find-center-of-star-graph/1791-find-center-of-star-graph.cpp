@@ -22,23 +22,37 @@ public:
     **/
 
     int findCenter(vector<vector<int>>& arr) {
-        int cnt1 = 0, cnt2 = 0;
+        // int cnt1 = 0, cnt2 = 0;
         int n = arr.size();
         int x = arr[0][0];
         int y = arr[0][1];
 
-        for (int i = 1; i < n; i++) {
-            if(arr[i][0] == x) cnt1++;
-            else if(arr[i][0] == y) cnt2++;
-            else if(arr[i][1] == x) cnt1++;
-            else if(arr[i][1] == y) cnt2++;
-        }
+        int p = arr[1][0];
+        int q = arr[1][1];
 
-        if(cnt1 == n - 1) return x;
-        if(cnt2 == n - 1) return y;
 
-        cout<<cnt1<<" "<<cnt2<<endl;
+        if(x == p || x == q) return x;
+        else return y;
+
+
+        // for (int i = 1; i < n; i++) {
+        //     if(arr[i][0] == x) cnt1++;
+        //     else if(arr[i][0] == y) cnt2++;
+        //     else if(arr[i][1] == x) cnt1++;
+        //     else if(arr[i][1] == y) cnt2++;
+        // }
+
+        // if(cnt1 == n - 1) return x;
+        // if(cnt2 == n - 1) return y;
+
+        // cout<<cnt1<<" "<<cnt2<<endl;
 
         return -1;
+
+
+        
+
+
+
     }
 };
