@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
