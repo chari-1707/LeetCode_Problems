@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/chari-1707/LeetCode_Problems/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
