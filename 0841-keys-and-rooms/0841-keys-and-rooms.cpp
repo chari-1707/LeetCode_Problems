@@ -19,11 +19,19 @@ public:
         }
     }
     void dfs(int curr, vector<vector<int>>& arr){
+        // if(curr == arr.size() - 1) return;
 
+        visited.insert(curr);
+        for(auto neighbour: arr[curr]){
+            if(!visited.count(neighbour)){
+                dfs(neighbour,arr);
+            }
+        }
         
     }
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
-        bfs(rooms);
+        // bfs(rooms);
+        dfs(0, rooms);
         return (rooms.size() == visited.size());
     }
 };
