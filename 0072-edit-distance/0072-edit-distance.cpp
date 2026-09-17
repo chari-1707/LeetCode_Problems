@@ -18,10 +18,13 @@ public:
     vector<vector<int>> dp;
     int f(int i, int j, string& s, string& t) {
 
-        if (i == s.length()) return (t.length() - j);
-        if (j == t.length()) return (s.length() - i);
+        if (i == s.length())
+            return (t.length() - j);
+        if (j == t.length())
+            return (s.length() - i);
 
-        if(dp[i][j] != -1) return dp[i][j];
+        if (dp[i][j] != -1)
+            return dp[i][j];
 
         if (s[i] == t[j]) {
             return f(i + 1, j + 1, s, t);
@@ -34,11 +37,39 @@ public:
         return dp[i][j] = min({x, y, z});
     }
 
-    int minDistance(string s, string t) {
+    int fbu(string& s, string& t) {
         int m = s.length();
         int n = t.length();
         dp.clear();
-        dp.resize(m + 1, vector<int>(n + 1, -1));
-        return f(0, 0, s, t);
+        dp.resize(m + 1, vector<int>(n + 1, 0));
+        // filling the base cases
+
+        dp[m][n] = 0;
+        for (int j = 0; j < n; j++)
+            dp[m][j] = n - j;
+        for (int i = 0; i < m; i++)
+            dp[i][n] = m - i;
+
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                if (s[i] == t[j]) {
+                    dp[i][j] = dp[i + 1][j + 1];
+                }else{
+                dp[i][j] = 1 + min({dp[i + 1][j], dp[i][j + 1], dp[i + 1][j + 1]});
+                }
+            }
+        }
+
+        return dp[0][0];
+    }
+
+    int minDistance(string s, string t) {
+        int m = s.length();
+        int n = t.length();
+        // dp.clear();
+        // dp.resize(m + 1, vector<int>(n + 1, -1));
+        // return f(0, 0, s, t);
+
+        return fbu(s,t);
     }
 };
