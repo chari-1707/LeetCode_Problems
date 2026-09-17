@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/chari-1707/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/chari-1707/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/chari-1707/LeetCode_Problems/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/chari-1707/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/chari-1707/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/chari-1707/LeetCode_Problems/tree/master/1092-shortest-common-supersequence) |
