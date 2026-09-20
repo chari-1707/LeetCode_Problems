@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/chari-1707/LeetCode_Problems/tree/master/1092-shortest-common-supersequence) |
+| [3811-reverse-degree-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/chari-1707/LeetCode_Problems/tree/master/1092-shortest-common-supersequence) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
