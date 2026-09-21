@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/chari-1707/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/chari-1707/LeetCode_Problems/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
