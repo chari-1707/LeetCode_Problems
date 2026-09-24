@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chari-1707/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/chari-1707/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/chari-1707/LeetCode_Problems/tree/master/0031-next-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chari-1707/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chari-1707/LeetCode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
