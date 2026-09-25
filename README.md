@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/chari-1707/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/chari-1707/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/chari-1707/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
 | [1105-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1105-uncrossed-lines) |
@@ -115,4 +116,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/chari-1707/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/chari-1707/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/chari-1707/LeetCode_Problems/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/chari-1707/LeetCode_Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
