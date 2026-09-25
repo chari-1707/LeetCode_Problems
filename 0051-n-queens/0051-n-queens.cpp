@@ -8,24 +8,24 @@ public:
 
     bool canPlaceQueen(int row, int col, vector<string>& arr){
         int n = arr.size();
-        bool flag = true;
+        // bool flag = true;
 
         //column check
         for(int i = row - 1; i >= 0; i--){
-            if(arr[i][col] != '.') flag = false;
+            if(arr[i][col] != '.') return false;
         }
 
         //left diagonal check
         for(int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--){ // contains two variables
-            if(arr[i][j] != '.') flag = false;
+            if(arr[i][j] != '.') return false;
         }
 
         //right diagonal check
         for(int i = row - 1, j = col + 1; i >= 0 && j < n ; i--, j++){ // contains two variables
-            if(arr[i][j] != '.') flag = false;
+            if(arr[i][j] != '.') return false;
         }
 
-        return flag;
+        return true;
     }
 
     void f(int i, vector<string>& arr, vector<vector<string>>& ans) {
