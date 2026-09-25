@@ -42,7 +42,6 @@ public:
                 arr[i][j] = '.'; // This is the step of backtracking revert it back
             }
         }
-
     }
 
     vector<vector<string>> solveNQueens(int n) {
