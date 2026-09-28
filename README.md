@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/chari-1707/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/chari-1707/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
+| [0576-out-of-boundary-paths](https://github.com/chari-1707/LeetCode_Problems/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
