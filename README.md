@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/chari-1707/LeetCode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chari-1707/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/chari-1707/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/chari-1707/LeetCode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
