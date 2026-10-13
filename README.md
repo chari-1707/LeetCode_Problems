@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/chari-1707/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/chari-1707/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
 | [1105-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1105-uncrossed-lines) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/chari-1707/LeetCode_Problems/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chari-1707/LeetCode_Problems/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chari-1707/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chari-1707/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/chari-1707/LeetCode_Problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/chari-1707/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/chari-1707/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
