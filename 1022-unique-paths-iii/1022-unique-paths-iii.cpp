@@ -4,7 +4,7 @@ public:
                           vector<vector<bool>>& visited) {
         for (int x = 0; x < visited.size(); x++) {
             for (int y = 0; y < visited[0].size(); y++) {
-                if (arr[x][y] == -1)
+                if (arr[x][y] == -1 || arr[x][y] == 2)
                     continue;
                 if (!visited[x][y])
                     return false;
@@ -21,9 +21,9 @@ public:
         if (visited[i][j] || arr[i][j] == -1)  return 0;
 
         if (arr[i][j] == 2) {
-            visited[i][j] = true;
+            // visited[i][j] = true;
             bool valid = EveryCellVisited(arr, visited);
-            visited[i][j] = false;
+            // visited[i][j] = false;
             return valid ? 1 : 0;
         }
 
