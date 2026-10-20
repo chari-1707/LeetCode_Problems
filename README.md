@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chari-1707/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/chari-1707/LeetCode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/chari-1707/LeetCode_Problems/tree/master/0037-sudoku-solver) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chari-1707/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/1022-unique-paths-iii) |
+## Counting
+|  |
+| ------- |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
