@@ -12,8 +12,8 @@ public:
     int numSplits(string s) {
 
         int ans = 0;
-        unordered_map<int, int> s1;
-        unordered_map<int, int> s2;
+        unordered_map<char, int> s1, s2;
+        // unordered_map<int, int> s2;
 
         for (auto& ele : s)
             s2[(ele)]++;
@@ -40,6 +40,8 @@ public:
                 ans = ans + 1;
             }
         }
+
+        //damn!! FUCK BRO I JUST DIDN'T Understand the Questionð­ï¸
 
         return ans;
     }
