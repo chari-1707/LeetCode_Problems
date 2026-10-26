@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/1022-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
 | [1105-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1105-uncrossed-lines) |
+| [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/chari-1707/LeetCode_Problems/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chari-1707/LeetCode_Problems/tree/master/0037-sudoku-solver) |
+| [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/chari-1707/LeetCode_Problems/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
