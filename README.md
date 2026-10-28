@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1022-unique-paths-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/1022-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
+| [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 | [1105-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1105-uncrossed-lines) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -198,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 <!---LeetCode Topics End-->
