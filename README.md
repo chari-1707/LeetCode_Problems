@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
 | [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/chari-1707/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/chari-1707/LeetCode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/chari-1707/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
+| [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
 | [0576-out-of-boundary-paths](https://github.com/chari-1707/LeetCode_Problems/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chari-1707/LeetCode_Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
 | [1022-unique-paths-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/1022-unique-paths-iii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Hamiltonian Path
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
