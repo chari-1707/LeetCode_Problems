@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/chari-1707/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
+| [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1022-unique-paths-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/1022-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chari-1707/LeetCode_Problems/tree/master/0037-sudoku-solver) |
+| [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
 | [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/chari-1707/LeetCode_Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Prefix Sum
 |  |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
