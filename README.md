@@ -222,7 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
