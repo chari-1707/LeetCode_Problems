@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/chari-1707/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chari-1707/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/chari-1707/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4041-climbing-stairs-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/chari-1707/LeetCode_Problems/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1105-uncrossed-lines) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chari-1707/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [4041-climbing-stairs-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/4041-climbing-stairs-ii) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -222,7 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
