@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<int> dp;
-    int f(int i, vector<int>& c, int n) {
+    // int f(int i, vector<int>& c, int n) {
 
-        if (i == n)
-            return 0;
-        if (i == n - 1)
-            return (1 + c[i]);
+    //     if (i == n)
+    //         return 0;
+    //     if (i == n - 1)
+    //         return (1 + c[i]);
 
-        if (dp[i] != -1)
-            return dp[i];
+    //     if (dp[i] != -1)
+    //         return dp[i];
 
-        return dp[i] = min({
-                   c[i] + 1 + f(i + 1, c, n),
-                   (i + 2 <= n) ? c[i + 1] + 4 + f(i + 2, c, n) : INT_MAX,
-                   (i + 3 <= n) ? c[i + 2] + 9 + f(i + 3, c, n) : INT_MAX,
-               });
-    }
+    //     return dp[i] = min({
+    //                c[i] + 1 + f(i + 1, c, n),
+    //                (i + 2 <= n) ? c[i + 1] + 4 + f(i + 2, c, n) : INT_MAX,
+    //                (i + 3 <= n) ? c[i + 2] + 9 + f(i + 3, c, n) : INT_MAX,
+    //            });
+    // }
 
     int fbu(vector<int>& c, int n) {
         dp[n] = 0;
