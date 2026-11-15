@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1035-uncrossed-lines) |
 | [1095-two-city-scheduling](https://github.com/chari-1707/LeetCode_Problems/tree/master/1095-two-city-scheduling) |
 | [1105-uncrossed-lines](https://github.com/chari-1707/LeetCode_Problems/tree/master/1105-uncrossed-lines) |
+| [1342-queens-that-can-attack-the-king](https://github.com/chari-1707/LeetCode_Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [1464-reduce-array-size-to-the-half](https://github.com/chari-1707/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/chari-1707/LeetCode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/chari-1707/LeetCode_Problems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/chari-1707/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1022-unique-paths-iii](https://github.com/chari-1707/LeetCode_Problems/tree/master/1022-unique-paths-iii) |
+| [1342-queens-that-can-attack-the-king](https://github.com/chari-1707/LeetCode_Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/chari-1707/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph Theory
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1342-queens-that-can-attack-the-king](https://github.com/chari-1707/LeetCode_Problems/tree/master/1342-queens-that-can-attack-the-king) |
 | [3811-reverse-degree-of-a-string](https://github.com/chari-1707/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -228,7 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/chari-1707/LeetCode_Problems/tree/master/0397-integer-replacement) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/chari-1707/LeetCode_Problems/tree/master/0229-majority-element-ii) |
